@@ -1,0 +1,11 @@
+{
+  "n_models": 10000,
+  "n_nodes": 9,
+  "n_edges": 11,
+  "n_parameters": 51,
+  "mean_emt_score": 0.5786676056016876,
+  "std_emt_score": 0.28190727351984296,
+  "epithelial_percent": 21.279999999999998,
+  "hybrid_percent": 38.47,
+  "mesenchymal_percent": 40.25
+}
