@@ -12,8 +12,9 @@ An integrated framework combining mechanistic ODE modeling, RACIPE ensemble anal
 ---
 **Year:** 2023  
 **License:** MIT  
-**Author:** Sepideh Moafi 
- License: MIT
+**Author:** Sepideh Moafi
+
+License: MIT
 ---
 ## 📖 Overview
 
