@@ -3,8 +3,7 @@
 
 
 
-(https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+https://img.shields.io/badge/License-MIT-yellow.svg
 
 An integrated framework combining mechanistic ODE modeling, RACIPE ensemble analysis, and transcriptomic validation to map the phenotypic landscape of Epithelial-to-Mesenchymal Transition (EMT).
 
