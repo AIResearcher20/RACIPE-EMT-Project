@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Decoding EMT Heterogeneity: An Integrative Framework Combining ODE Dynamics, RACIPE Ensembles, and Transcriptomic Validation"
+authors:
+  - family-names: Moafi
+    given-names: Sepideh Moafi 
+    
+repository-code: "https://github.com/AIResearcher20/RACIPE-EMT-Project"
+license: MIT
+year: 2023
+keywords:
+  - EMT
+  - RACIPE
+  - ODE modeling
+  - transcriptomics
+  - computational biology
